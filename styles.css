@@ -156,7 +156,7 @@ transform: rotate(-45deg) translate(10px, -5px)
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 150px 30px 50px 53px;
+    padding: 150px 0 50px 53px;
     background: black;
     width: 100%;
     height: auto;
@@ -172,7 +172,7 @@ transform: rotate(-45deg) translate(10px, -5px)
   section .chapter-one h1,
   .chapter-two h1 h3 p{
     font-size: 40px;
-    margin: 15px;
+/*     margin: 15px; */
   }
   
   article{
