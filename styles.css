@@ -239,6 +239,7 @@ transform: rotate(-45deg) translate(10px, -5px)
     gap: 10%;
     row-gap: 5%;
     height: auto;
+    overflow-y: hidden;
   }
   .wrapper article{
   width: auto;
