@@ -310,7 +310,7 @@ transform: rotate(-45deg) translate(10px, -5px)
 
   /* Adjust section padding for smaller screens */
   section {
-    padding: 100px 20px 40px 20px;
+    padding: 100px 0 40px 0;
   }
 
   /* Stack grid items vertically */
