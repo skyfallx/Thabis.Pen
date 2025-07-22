@@ -322,6 +322,7 @@ transform: rotate(-45deg) translate(10px, -5px)
 
   .wrapper {
     grid-template-columns: 1fr;
+    overflow: hidden;
   }
 
   .wrapper img {
