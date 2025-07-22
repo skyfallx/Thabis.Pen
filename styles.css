@@ -316,7 +316,7 @@ transform: rotate(-45deg) translate(10px, -5px)
   /* Stack grid items vertically */
   .cover-wrappers {
     display: flex;
-    overflow-y: hidden;
+    overflow-x: hidden;
   }
 
   .wrapper {
