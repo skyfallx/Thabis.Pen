@@ -203,8 +203,8 @@ transform: rotate(-45deg) translate(10px, -5px)
   }
 
   section .chapter-one .cover-wrappers article a img{
-    height: 170px;
-    width: 180px;
+    height: 150px;
+    width: 150px;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
   }
