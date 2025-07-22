@@ -198,13 +198,13 @@ transform: rotate(-45deg) translate(10px, -5px)
   section .chapter-one .cover-wrappers{
     display: grid;
     grid-template-columns: repeat(5, 230px);
-    /* justify-content: center; */
+    justify-content: center;
     align-items: center;
   }
 
   section .chapter-one .cover-wrappers article a img{
-    height: 200px;
-    width: 200px;
+    height: 180px;
+    width: 180px;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px;
   }
