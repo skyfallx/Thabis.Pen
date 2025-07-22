@@ -40,8 +40,8 @@ nav,
 nav.sticky{
   height: 5vh;
   padding: 15px 0;
-  color: white;
-  background: black;
+  color: black;
+  background: whithe;
 }
 .nav-links.sticky{
   color: black;
