@@ -52,7 +52,7 @@ nav{
     position: fixed;
     top:0;
     width: 100%;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     height: 20vh;
     z-index: 10000;
